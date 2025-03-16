@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Base.unity
+    guid: 2265117cb22e780408418e88b9a9d83a
+  - enabled: 0
+    path: Assets/Scenes/OldSampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Stephan Scene.unity
+    guid: effffa4e54d95aa43b8ad743e8c781f0
+  - enabled: 0
+    path: Assets/Scenes/Remolo Scene.unity
+    guid: e2fc1e2b63d424b6fa3fbe6255f417f5
+  - enabled: 0
+    path: Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/DemoScene.unity
+    guid: 319dafa5c80f29f428dc1e0d03f04177
+  - enabled: 0
+    path: Assets/Scenes/Duco_motorkap.unity
+    guid: dd89a7aa7b19afa42997d9f6607f5664
+  - enabled: 0
+    path: Assets/Scenes/Duco Scene.unity
+    guid: aa9ec79f4dc769b49ba203d9f626344c
+  - enabled: 0
+    path: Assets/Scenes/Starting Scene.unity
+    guid: e6e5c3e649be74243bbc7ce5f284b00d
+  - enabled: 0
+    path: Assets/Scenes/Base #2 Hinges fixed (R).unity
+    guid: 0abd8cdeee4f4446e916652866d9a039
+  - enabled: 0
+    path: Assets/Scenes/Starting scene (R).unity
+    guid: 8c698cb8706a64b7c8ca7319e6481a9e
+  - enabled: 0
+    path: Assets/Scenes/Starting Scene.unity
+    guid: e6e5c3e649be74243bbc7ce5f284b00d
+  - enabled: 0
+    path: Assets/Scenes/MainScene.unity
+    guid: d4dccf0483d96450583e7a9fe7b20857
+  - enabled: 0
+    path: Assets/Scenes/MergedScene.unity
+    guid: b1b05e2417a2b49108d6b04bccc85e11
+  - enabled: 0
+    path: Assets/Scenes/MergedScene (D).unity
+    guid: 5136f477adbfc164884636a2d4640a06
+  - enabled: 0
+    path: Assets/Scenes/MainScene (latest).unity
+    guid: bbba59496fe3b4741bb5082778f1b829
+  - enabled: 0
+    path: Assets/Scenes/NewMain.unity
+    guid: bd6334f76c843e349880e31c78e3d030
+  - enabled: 0
+    path: Assets/Scenes/NewMain (remolo story).unity
+    guid: da764df86decd41819a0758ac3bcf712
+  - enabled: 1
+    path: Assets/Scenes/Leaderboard Starting Scene 1.unity
+    guid: f973575a922825d47a005a1f9a6733eb
+  - enabled: 1
+    path: Assets/Scenes/NewMain FINAL PRESENTATIE.unity
+    guid: 52969fc320d3e4cc3b84fb4d7405b723
+  - enabled: 0
+    path: Assets/Scenes/Promofilmpje StartingScene.unity
+    guid: 37eeeafe07c0bd840be3cec59aaf8546
+  - enabled: 0
+    path: Assets/Scenes/Promofilmpje Main Scene.unity
+    guid: 8807f776e6553f24dbb13c47a3e31a8d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 7246fb51e3866df408fd8dd01f4fcbeb, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: fde9a92b3543ba44fb382a95c06c7ad0, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3851e6a22cf4ba2489bc815feaa89df8, type: 2}
+  m_UseUCBPForAssetBundles: 0
