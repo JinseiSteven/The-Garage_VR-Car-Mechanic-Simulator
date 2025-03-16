@@ -1,5 +1,5 @@
 <h1 align="center"  style="font-family: 'Roboto', sans-serif; font-size: 60px; font-weight: bold; color: #FFF; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
- <img src=assets/images/icon.png width="200" height="200" style="image-rendering: pixelated;">
+ <img src=Assets/Images/icon.png width="200" height="200" style="image-rendering: pixelated;">
   <br />
  The Garage
 </h1>
@@ -13,15 +13,16 @@ The aim of our project was to develop a VR-Experience in which players would lea
 
 The setting of the game is a simple and cozy home garage, where the user has many car maintenance items at their disposal, which they could realistically have at home. Furthermore, during the game the player will be guided by a narrator, telling them what to do and how to do it safely. Overall, The Garage provides an engaging and educational VR experience that allows players to build confidence in essential car maintenance skills, all within a safe and immersive environment.
 
-![Game Screenshot 1](assets/images/garage_exterior_2.PNG)
-![Game Screenshot 2](assets/images/garage_interior.PNG)
+![Game Screenshot 1](Assets/Images/garage_exterior_2.PNG)
+![Game Screenshot 2](Assets/Images/garage_interior.PNG)
 
 ## Group F
 
 ### Team Members
 - **Stephan Visser** *(13977571)*
   - Made everything concerning the Mechanics: Fluids, Jumpstarter, Wheel Replacement, Bonet Interior (+ the other decoration items like basketball)
-  - Modelled all 3D objects (Safe for some store assets) and the "Krik"
+  - Modelled all 3D objects (Safe for some store assets)
+  - Implemented the AI voice generation
   - Made the main scene Environment
   - Implemented all lighting, particle effects and Post Processing
   - Wrote the Fluid shaders
